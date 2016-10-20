@@ -17,7 +17,6 @@
 		6F3F2AEE1DB8B2CC001BBB1E /* UIImage+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ADB1DB8B2CC001BBB1E /* UIImage+CoLcY.m */; };
 		6F3F2AEF1DB8B2CC001BBB1E /* UIImageView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ADD1DB8B2CC001BBB1E /* UIImageView+CoLcY.m */; };
 		6F3F2AF11DB8B2CC001BBB1E /* UIScrollView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */; };
-		6F3F2AF21DB8B2CC001BBB1E /* UIView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE41DB8B2CC001BBB1E /* UIView+CoLcY.m */; };
 		6F3F2AF31DB8B2CC001BBB1E /* UIWebView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */; };
 /* End PBXBuildFile section */
 
@@ -59,8 +58,6 @@
 		6F3F2ADE1DB8B2CC001BBB1E /* UIKit+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2AE11DB8B2CC001BBB1E /* UIScrollView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AE31DB8B2CC001BBB1E /* UIView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AE41DB8B2CC001BBB1E /* UIView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2AE51DB8B2CC001BBB1E /* UIWebView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+CoLcY.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -135,8 +132,6 @@
 				6F3F2ADE1DB8B2CC001BBB1E /* UIKit+CoLcY.h */,
 				6F3F2AE11DB8B2CC001BBB1E /* UIScrollView+CoLcY.h */,
 				6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */,
-				6F3F2AE31DB8B2CC001BBB1E /* UIView+CoLcY.h */,
-				6F3F2AE41DB8B2CC001BBB1E /* UIView+CoLcY.m */,
 				6F3F2AE51DB8B2CC001BBB1E /* UIWebView+CoLcY.h */,
 				6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */,
 			);
@@ -210,7 +205,6 @@
 				6F3F2AED1DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m in Sources */,
 				6F3F2AE71DB8B2CC001BBB1E /* NSObject+CoLcY.m in Sources */,
 				6F3F2AF31DB8B2CC001BBB1E /* UIWebView+CoLcY.m in Sources */,
-				6F3F2AF21DB8B2CC001BBB1E /* UIView+CoLcY.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
