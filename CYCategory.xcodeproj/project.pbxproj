@@ -18,6 +18,8 @@
 		6F3F2AEF1DB8B2CC001BBB1E /* UIImageView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ADD1DB8B2CC001BBB1E /* UIImageView+CoLcY.m */; };
 		6F3F2AF11DB8B2CC001BBB1E /* UIScrollView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */; };
 		6F3F2AF31DB8B2CC001BBB1E /* UIWebView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */; };
+		6F3F2B1C1DB8B7A1001BBB1E /* UILabel+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B191DB8B7A1001BBB1E /* UILabel+CoLcY.m */; };
+		6F3F2B1D1DB8B7A1001BBB1E /* UIView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B1B1DB8B7A1001BBB1E /* UIView+CoLcY.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -60,6 +62,10 @@
 		6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2AE51DB8B2CC001BBB1E /* UIWebView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B181DB8B7A1001BBB1E /* UILabel+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B191DB8B7A1001BBB1E /* UILabel+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B1A1DB8B7A1001BBB1E /* UIView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B1B1DB8B7A1001BBB1E /* UIView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CoLcY.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,10 @@
 		6F3F2ACF1DB8B2CC001BBB1E /* UIKit */ = {
 			isa = PBXGroup;
 			children = (
+				6F3F2B181DB8B7A1001BBB1E /* UILabel+CoLcY.h */,
+				6F3F2B191DB8B7A1001BBB1E /* UILabel+CoLcY.m */,
+				6F3F2B1A1DB8B7A1001BBB1E /* UIView+CoLcY.h */,
+				6F3F2B1B1DB8B7A1001BBB1E /* UIView+CoLcY.m */,
 				6F3F2AD01DB8B2CC001BBB1E /* UIAlertView+CoLcY.h */,
 				6F3F2AD11DB8B2CC001BBB1E /* UIAlertView+CoLcY.m */,
 				6F3F2AD21DB8B2CC001BBB1E /* UIButton+CoLcY.h */,
@@ -196,6 +206,7 @@
 			files = (
 				6F3F2AEE1DB8B2CC001BBB1E /* UIImage+CoLcY.m in Sources */,
 				6F3F2AEC1DB8B2CC001BBB1E /* UIControl+CoLcY.m in Sources */,
+				6F3F2B1D1DB8B7A1001BBB1E /* UIView+CoLcY.m in Sources */,
 				6F3F2AF11DB8B2CC001BBB1E /* UIScrollView+CoLcY.m in Sources */,
 				6F3F2AE81DB8B2CC001BBB1E /* NSString+CoLcY.m in Sources */,
 				6F3F2AEB1DB8B2CC001BBB1E /* UIColor+CoLcY.m in Sources */,
@@ -203,6 +214,7 @@
 				6F3F2AE91DB8B2CC001BBB1E /* UIAlertView+CoLcY.m in Sources */,
 				6F3F2AEA1DB8B2CC001BBB1E /* UIButton+CoLcY.m in Sources */,
 				6F3F2AED1DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m in Sources */,
+				6F3F2B1C1DB8B7A1001BBB1E /* UILabel+CoLcY.m in Sources */,
 				6F3F2AE71DB8B2CC001BBB1E /* NSObject+CoLcY.m in Sources */,
 				6F3F2AF31DB8B2CC001BBB1E /* UIWebView+CoLcY.m in Sources */,
 			);
