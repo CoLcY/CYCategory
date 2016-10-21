@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "CYCategory"
-  s.version      = "0.0.1"
+  s.version      = "master"
 
   s.summary      = "Category of Objective-C."
   s.description  = "This is Category of Objective-C."
