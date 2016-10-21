@@ -20,8 +20,6 @@
 		6F3F2B371DB9C36F001BBB1E /* UIScrollView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B2D1DB9C36F001BBB1E /* UIScrollView+CoLcY.m */; };
 		6F3F2B381DB9C36F001BBB1E /* UIWebView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B2F1DB9C36F001BBB1E /* UIWebView+CoLcY.m */; };
 		6F3F2B3B1DB9E0E1001BBB1E /* NSObject+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B3A1DB9E0E1001BBB1E /* NSObject+CoLcY.m */; };
-		6F3F2B3D1DB9E134001BBB1E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F3F2B3C1DB9E134001BBB1E /* UIKit.framework */; };
-		6F3F2B3F1DB9E139001BBB1E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F3F2B3E1DB9E139001BBB1E /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -68,8 +66,6 @@
 		6F3F2B2F1DB9C36F001BBB1E /* UIWebView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2B391DB9E0E1001BBB1E /* NSObject+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2B3A1DB9E0E1001BBB1E /* NSObject+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2B3C1DB9E134001BBB1E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		6F3F2B3E1DB9E139001BBB1E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,8 +73,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F3F2B3F1DB9E139001BBB1E /* Foundation.framework in Frameworks */,
-				6F3F2B3D1DB9E134001BBB1E /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,8 +82,6 @@
 		6F3F2AB21DB8B269001BBB1E = {
 			isa = PBXGroup;
 			children = (
-				6F3F2B3E1DB9E139001BBB1E /* Foundation.framework */,
-				6F3F2B3C1DB9E134001BBB1E /* UIKit.framework */,
 				6F3F2ABD1DB8B269001BBB1E /* CYCategory */,
 				6F3F2ABC1DB8B269001BBB1E /* Products */,
 			);
