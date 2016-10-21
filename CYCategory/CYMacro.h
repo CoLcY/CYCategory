@@ -6,6 +6,8 @@
 //  Copyright (c) 2014年 CoLcY. All rights reserved.
 //
 
+//version:0.0.1
+
 #ifndef CoLcY_Library_CoLcYMacro_h
 #define CoLcY_Library_CoLcYMacro_h
 
