@@ -9,17 +9,17 @@
 /* Begin PBXBuildFile section */
 		6F3F2AE71DB8B2CC001BBB1E /* NSObject+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ACC1DB8B2CC001BBB1E /* NSObject+CoLcY.m */; };
 		6F3F2AE81DB8B2CC001BBB1E /* NSString+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ACE1DB8B2CC001BBB1E /* NSString+CoLcY.m */; };
-		6F3F2AE91DB8B2CC001BBB1E /* UIAlertView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AD11DB8B2CC001BBB1E /* UIAlertView+CoLcY.m */; };
-		6F3F2AEA1DB8B2CC001BBB1E /* UIButton+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AD31DB8B2CC001BBB1E /* UIButton+CoLcY.m */; };
-		6F3F2AEB1DB8B2CC001BBB1E /* UIColor+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AD51DB8B2CC001BBB1E /* UIColor+CoLcY.m */; };
-		6F3F2AEC1DB8B2CC001BBB1E /* UIControl+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AD71DB8B2CC001BBB1E /* UIControl+CoLcY.m */; };
-		6F3F2AED1DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AD91DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m */; };
-		6F3F2AEE1DB8B2CC001BBB1E /* UIImage+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ADB1DB8B2CC001BBB1E /* UIImage+CoLcY.m */; };
-		6F3F2AEF1DB8B2CC001BBB1E /* UIImageView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2ADD1DB8B2CC001BBB1E /* UIImageView+CoLcY.m */; };
-		6F3F2AF11DB8B2CC001BBB1E /* UIScrollView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */; };
-		6F3F2AF31DB8B2CC001BBB1E /* UIWebView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */; };
 		6F3F2B1C1DB8B7A1001BBB1E /* UILabel+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B191DB8B7A1001BBB1E /* UILabel+CoLcY.m */; };
 		6F3F2B1D1DB8B7A1001BBB1E /* UIView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B1B1DB8B7A1001BBB1E /* UIView+CoLcY.m */; };
+		6F3F2B301DB9C36F001BBB1E /* UIAlertView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B1F1DB9C36F001BBB1E /* UIAlertView+CoLcY.m */; };
+		6F3F2B311DB9C36F001BBB1E /* UIButton+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B211DB9C36F001BBB1E /* UIButton+CoLcY.m */; };
+		6F3F2B321DB9C36F001BBB1E /* UIColor+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B231DB9C36F001BBB1E /* UIColor+CoLcY.m */; };
+		6F3F2B331DB9C36F001BBB1E /* UIControl+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B251DB9C36F001BBB1E /* UIControl+CoLcY.m */; };
+		6F3F2B341DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B271DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.m */; };
+		6F3F2B351DB9C36F001BBB1E /* UIImage+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B291DB9C36F001BBB1E /* UIImage+CoLcY.m */; };
+		6F3F2B361DB9C36F001BBB1E /* UIImageView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B2B1DB9C36F001BBB1E /* UIImageView+CoLcY.m */; };
+		6F3F2B371DB9C36F001BBB1E /* UIScrollView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B2D1DB9C36F001BBB1E /* UIScrollView+CoLcY.m */; };
+		6F3F2B381DB9C36F001BBB1E /* UIWebView+CoLcY.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F3F2B2F1DB9C36F001BBB1E /* UIWebView+CoLcY.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,29 +43,29 @@
 		6F3F2ACC1DB8B2CC001BBB1E /* NSObject+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2ACD1DB8B2CC001BBB1E /* NSString+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2ACE1DB8B2CC001BBB1E /* NSString+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AD01DB8B2CC001BBB1E /* UIAlertView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AD11DB8B2CC001BBB1E /* UIAlertView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AD21DB8B2CC001BBB1E /* UIButton+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AD31DB8B2CC001BBB1E /* UIButton+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AD41DB8B2CC001BBB1E /* UIColor+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AD51DB8B2CC001BBB1E /* UIColor+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AD61DB8B2CC001BBB1E /* UIControl+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AD71DB8B2CC001BBB1E /* UIControl+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AD81DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIGestureRecognizer+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AD91DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIGestureRecognizer+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2ADA1DB8B2CC001BBB1E /* UIImage+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2ADB1DB8B2CC001BBB1E /* UIImage+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2ADC1DB8B2CC001BBB1E /* UIImageView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2ADD1DB8B2CC001BBB1E /* UIImageView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2ADE1DB8B2CC001BBB1E /* UIKit+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIKit+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AE11DB8B2CC001BBB1E /* UIScrollView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+CoLcY.m"; sourceTree = "<group>"; };
-		6F3F2AE51DB8B2CC001BBB1E /* UIWebView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+CoLcY.h"; sourceTree = "<group>"; };
-		6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2B181DB8B7A1001BBB1E /* UILabel+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2B191DB8B7A1001BBB1E /* UILabel+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+CoLcY.m"; sourceTree = "<group>"; };
 		6F3F2B1A1DB8B7A1001BBB1E /* UIView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CoLcY.h"; sourceTree = "<group>"; };
 		6F3F2B1B1DB8B7A1001BBB1E /* UIView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B1E1DB9C36F001BBB1E /* UIAlertView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B1F1DB9C36F001BBB1E /* UIAlertView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B201DB9C36F001BBB1E /* UIButton+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B211DB9C36F001BBB1E /* UIButton+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B221DB9C36F001BBB1E /* UIColor+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B231DB9C36F001BBB1E /* UIColor+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B241DB9C36F001BBB1E /* UIControl+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIControl+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B251DB9C36F001BBB1E /* UIControl+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIControl+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B261DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIGestureRecognizer+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B271DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIGestureRecognizer+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B281DB9C36F001BBB1E /* UIImage+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B291DB9C36F001BBB1E /* UIImage+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B2A1DB9C36F001BBB1E /* UIImageView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B2B1DB9C36F001BBB1E /* UIImageView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B2C1DB9C36F001BBB1E /* UIScrollView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B2D1DB9C36F001BBB1E /* UIScrollView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+CoLcY.m"; sourceTree = "<group>"; };
+		6F3F2B2E1DB9C36F001BBB1E /* UIWebView+CoLcY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIWebView+CoLcY.h"; sourceTree = "<group>"; };
+		6F3F2B2F1DB9C36F001BBB1E /* UIWebView+CoLcY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+CoLcY.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,29 +121,29 @@
 		6F3F2ACF1DB8B2CC001BBB1E /* UIKit */ = {
 			isa = PBXGroup;
 			children = (
+				6F3F2ADE1DB8B2CC001BBB1E /* UIKit+CoLcY.h */,
+				6F3F2B1E1DB9C36F001BBB1E /* UIAlertView+CoLcY.h */,
+				6F3F2B1F1DB9C36F001BBB1E /* UIAlertView+CoLcY.m */,
+				6F3F2B201DB9C36F001BBB1E /* UIButton+CoLcY.h */,
+				6F3F2B211DB9C36F001BBB1E /* UIButton+CoLcY.m */,
+				6F3F2B221DB9C36F001BBB1E /* UIColor+CoLcY.h */,
+				6F3F2B231DB9C36F001BBB1E /* UIColor+CoLcY.m */,
+				6F3F2B241DB9C36F001BBB1E /* UIControl+CoLcY.h */,
+				6F3F2B251DB9C36F001BBB1E /* UIControl+CoLcY.m */,
+				6F3F2B261DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.h */,
+				6F3F2B271DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.m */,
+				6F3F2B281DB9C36F001BBB1E /* UIImage+CoLcY.h */,
+				6F3F2B291DB9C36F001BBB1E /* UIImage+CoLcY.m */,
+				6F3F2B2A1DB9C36F001BBB1E /* UIImageView+CoLcY.h */,
+				6F3F2B2B1DB9C36F001BBB1E /* UIImageView+CoLcY.m */,
+				6F3F2B2C1DB9C36F001BBB1E /* UIScrollView+CoLcY.h */,
+				6F3F2B2D1DB9C36F001BBB1E /* UIScrollView+CoLcY.m */,
+				6F3F2B2E1DB9C36F001BBB1E /* UIWebView+CoLcY.h */,
+				6F3F2B2F1DB9C36F001BBB1E /* UIWebView+CoLcY.m */,
 				6F3F2B181DB8B7A1001BBB1E /* UILabel+CoLcY.h */,
 				6F3F2B191DB8B7A1001BBB1E /* UILabel+CoLcY.m */,
 				6F3F2B1A1DB8B7A1001BBB1E /* UIView+CoLcY.h */,
 				6F3F2B1B1DB8B7A1001BBB1E /* UIView+CoLcY.m */,
-				6F3F2AD01DB8B2CC001BBB1E /* UIAlertView+CoLcY.h */,
-				6F3F2AD11DB8B2CC001BBB1E /* UIAlertView+CoLcY.m */,
-				6F3F2AD21DB8B2CC001BBB1E /* UIButton+CoLcY.h */,
-				6F3F2AD31DB8B2CC001BBB1E /* UIButton+CoLcY.m */,
-				6F3F2AD41DB8B2CC001BBB1E /* UIColor+CoLcY.h */,
-				6F3F2AD51DB8B2CC001BBB1E /* UIColor+CoLcY.m */,
-				6F3F2AD61DB8B2CC001BBB1E /* UIControl+CoLcY.h */,
-				6F3F2AD71DB8B2CC001BBB1E /* UIControl+CoLcY.m */,
-				6F3F2AD81DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.h */,
-				6F3F2AD91DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m */,
-				6F3F2ADA1DB8B2CC001BBB1E /* UIImage+CoLcY.h */,
-				6F3F2ADB1DB8B2CC001BBB1E /* UIImage+CoLcY.m */,
-				6F3F2ADC1DB8B2CC001BBB1E /* UIImageView+CoLcY.h */,
-				6F3F2ADD1DB8B2CC001BBB1E /* UIImageView+CoLcY.m */,
-				6F3F2ADE1DB8B2CC001BBB1E /* UIKit+CoLcY.h */,
-				6F3F2AE11DB8B2CC001BBB1E /* UIScrollView+CoLcY.h */,
-				6F3F2AE21DB8B2CC001BBB1E /* UIScrollView+CoLcY.m */,
-				6F3F2AE51DB8B2CC001BBB1E /* UIWebView+CoLcY.h */,
-				6F3F2AE61DB8B2CC001BBB1E /* UIWebView+CoLcY.m */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
@@ -204,19 +204,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F3F2AEE1DB8B2CC001BBB1E /* UIImage+CoLcY.m in Sources */,
-				6F3F2AEC1DB8B2CC001BBB1E /* UIControl+CoLcY.m in Sources */,
+				6F3F2B371DB9C36F001BBB1E /* UIScrollView+CoLcY.m in Sources */,
+				6F3F2B351DB9C36F001BBB1E /* UIImage+CoLcY.m in Sources */,
+				6F3F2B331DB9C36F001BBB1E /* UIControl+CoLcY.m in Sources */,
+				6F3F2B311DB9C36F001BBB1E /* UIButton+CoLcY.m in Sources */,
 				6F3F2B1D1DB8B7A1001BBB1E /* UIView+CoLcY.m in Sources */,
-				6F3F2AF11DB8B2CC001BBB1E /* UIScrollView+CoLcY.m in Sources */,
+				6F3F2B341DB9C36F001BBB1E /* UIGestureRecognizer+CoLcY.m in Sources */,
+				6F3F2B301DB9C36F001BBB1E /* UIAlertView+CoLcY.m in Sources */,
+				6F3F2B321DB9C36F001BBB1E /* UIColor+CoLcY.m in Sources */,
 				6F3F2AE81DB8B2CC001BBB1E /* NSString+CoLcY.m in Sources */,
-				6F3F2AEB1DB8B2CC001BBB1E /* UIColor+CoLcY.m in Sources */,
-				6F3F2AEF1DB8B2CC001BBB1E /* UIImageView+CoLcY.m in Sources */,
-				6F3F2AE91DB8B2CC001BBB1E /* UIAlertView+CoLcY.m in Sources */,
-				6F3F2AEA1DB8B2CC001BBB1E /* UIButton+CoLcY.m in Sources */,
-				6F3F2AED1DB8B2CC001BBB1E /* UIGestureRecognizer+CoLcY.m in Sources */,
 				6F3F2B1C1DB8B7A1001BBB1E /* UILabel+CoLcY.m in Sources */,
 				6F3F2AE71DB8B2CC001BBB1E /* NSObject+CoLcY.m in Sources */,
-				6F3F2AF31DB8B2CC001BBB1E /* UIWebView+CoLcY.m in Sources */,
+				6F3F2B381DB9C36F001BBB1E /* UIWebView+CoLcY.m in Sources */,
+				6F3F2B361DB9C36F001BBB1E /* UIImageView+CoLcY.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

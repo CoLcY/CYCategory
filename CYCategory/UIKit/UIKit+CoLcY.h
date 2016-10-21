@@ -6,9 +6,6 @@
 //  Copyright © 2016年 CoLcY. All rights reserved.
 //
 
-#ifndef UIKit_CoLcY_h
-#define UIKit_CoLcY_h
-
 #import "UIAlertView+CoLcY.h"
 #import "UIButton+CoLcY.h"
 #import "UIColor+CoLcY.h"
@@ -20,5 +17,3 @@
 #import "UIView+CoLcY.h"
 #import "UIWebView+CoLcY.h"
 #import "UIGestureRecognizer+CoLcY.h"
-
-#endif /* UIKit_CoLcY_h */
